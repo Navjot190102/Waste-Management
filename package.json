@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A project on waste management",
   "main": "index.js",
+  "test": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "Waste",
@@ -16,5 +17,8 @@
     "reuse"
   ],
   "author": "Navjot Kaur , Prajyot Pyati, Subhardeep Karamkar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
