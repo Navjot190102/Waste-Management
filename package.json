@@ -1,0 +1,20 @@
+{
+  "name": "wastemanagement",
+  "version": "1.0.0",
+  "description": "A project on waste management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Waste",
+    "management",
+    "waste",
+    "scrabe",
+    "garbage",
+    "recycle",
+    "reuse"
+  ],
+  "author": "Navjot Kaur , Prajyot Pyati, Subhardeep Karamkar",
+  "license": "ISC"
+}
